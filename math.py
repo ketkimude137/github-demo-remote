@@ -1,17 +1,15 @@
 #addition
 def add(x,y):
-    return x+y #on master branch
+    pass
+     
 #subtract
 def subtract(x,y):
-    return x-y   #on master branch
+    pass
 
 #multiply
 def multiply(x,y):
-    return x*y #on bug456
-#divide
-
+    pass
+    
+#divide    
 def divide(x,y):
-    if y==0:
-    return Divide_by_0_error
-    else:
-        return x/y
+    pass
